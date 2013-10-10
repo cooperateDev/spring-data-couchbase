@@ -90,8 +90,5 @@ public class BasicCouchbasePersistentPropertyTests {
 
     String description;
 
-    public String getId() {
-      return id;
-    }
   }
 }
